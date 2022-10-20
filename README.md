@@ -13,6 +13,8 @@ _Self-development_
 * [x] Том ДеМарко, Роман об управлении проектами / 2010. - 352 c.
 * [x] Максим Батырев (Комбат), 45 татуировок менеджера. Правила российского руководителя/ 2016. - 304 c.
 * [ ] Ричард Брэнсон, К черту всё! Берись и делай! / 2007. - 240c.
+* [ ] https://kickoff.pmi.org/app/getting-it-up-and-running/align-people-and-objectives/3
+* [ ] https://www.pmi.org/learning
 _QA_
 * [x] Куликов, С. Тестирование программного обеспечения. Базовый курс / 2015. – 300 с.
 * [x] Kaner, C. Foundations of Software Testing / 2013. – 242 с.
