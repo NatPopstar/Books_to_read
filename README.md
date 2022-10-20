@@ -9,7 +9,6 @@ _Self-development_
 * [ ] Фрайд, Д. Remote. Офис не обязателен / 2014. – 288 с.
 * [ ] https://vc.ru/education/101011-samaya-bolshaya-podborka-po-prokachke-soft-skills-hvatit-na-vsyu-zhizn#Reshenie-problem-i-prinyatie-resheniy
 * [ ] https://www.livelib.ru/genre/Менеджмент/top
-* [ ] https://www.masterclassmanagement.com/
 * [x] Том ДеМарко, Роман об управлении проектами / 2010. - 352 c.
 * [x] Максим Батырев (Комбат), 45 татуировок менеджера. Правила российского руководителя/ 2016. - 304 c.
 * [ ] Ричард Брэнсон, К черту всё! Берись и делай! / 2007. - 240c.
