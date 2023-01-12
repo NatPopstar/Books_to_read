@@ -14,6 +14,7 @@ _Self-development_
 * [ ] Ричард Брэнсон, К черту всё! Берись и делай! / 2007. - 240c.
 * [ ] https://kickoff.pmi.org/app/getting-it-up-and-running/align-people-and-objectives/3
 * [ ] https://www.pmi.org/learning
+* [x] http://static.flibusta.site/b.fb2/Krasova_Piter-Druker.7dAzZA.198400.fb2.zip
 _QA_
 * [x] Куликов, С. Тестирование программного обеспечения. Базовый курс / 2015. – 300 с.
 * [x] Kaner, C. Foundations of Software Testing / 2013. – 242 с.
