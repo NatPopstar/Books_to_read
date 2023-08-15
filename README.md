@@ -34,3 +34,4 @@ _Useful links_
 * [ETS (Toefl official](https://www.ets.org/toefl.html)
 * [VC](https://vc.ru)
 * [SQL Puzzle](https://blog.sqlauthority.com/category/sql-puzzle/)
+* [SqlZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
