@@ -33,3 +33,4 @@ _Useful links_
 * [Intensive Academic English](https://elc.georgetown.edu/programs/IELS/intensive-academic-english)
 * [ETS (Toefl official](https://www.ets.org/toefl.html)
 * [VC](https://vc.ru)
+* [SQL Puzzle](https://blog.sqlauthority.com/category/sql-puzzle/)
