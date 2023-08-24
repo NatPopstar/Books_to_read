@@ -35,3 +35,4 @@ _Useful links_
 * [VC](https://vc.ru)
 * [SQL Puzzle](https://blog.sqlauthority.com/category/sql-puzzle/)
 * [SqlZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+* [EQ: how to raise it?](https://www.mindtools.com/axbwm3m/how-emotionally-intelligent-are-you) my result 63 points
