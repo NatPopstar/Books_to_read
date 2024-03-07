@@ -10,6 +10,7 @@ _Self-development_
 * [ ] https://vc.ru/education/101011-samaya-bolshaya-podborka-po-prokachke-soft-skills-hvatit-na-vsyu-zhizn#Reshenie-problem-i-prinyatie-resheniy
 * [ ] Ричард Брэнсон, К черту всё! Берись и делай! / 2007. - 240c.
 * [ ]  Питер Друкер, Задачи менеджмента в XXI веке / 2007. -134с.
+* [ ]  Боб Йохансен, Лидеры создают будущее / 2012. - 264c.
 _QA_
 * [x] Куликов, С. Тестирование программного обеспечения. Базовый курс / 2015. – 300 с.
 * [x] Kaner, C. Foundations of Software Testing / 2013. – 242 с.
@@ -36,3 +37,4 @@ _Useful links_
 * [SQL Puzzle](https://blog.sqlauthority.com/category/sql-puzzle/)
 * [SqlZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 * [EQ: how to raise it?](https://www.mindtools.com/axbwm3m/how-emotionally-intelligent-are-you) my result 63 points
+* [Management. YandexPractikum](https://practicum.yandex.ru/blog/managment/)
