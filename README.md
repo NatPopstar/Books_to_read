@@ -3,7 +3,7 @@ _Self-development_
 * [x] Андреев, О.А. Техника быстрого чтения. Самоучитель / 2011. – 320 с.
 * [x] Ильяхов, М. Пиши, сокращай: Как создавать сильные тексты / 2021. – 440 с.
 * [x] Криспин, Л. Agile-тестирование. Обучающий курс для всей команды / 2019. – 528 с.
-* [ ] PMI, PMBOOK 7 edition / 2021. - 274 c.
+* [x] PMI, PMBOOK 7 edition / 2021. - 274 c.
 * [ ] Роулинг, С. Я хочу больше идей. Более 100 техник и упражнений для развития творческого мышления / 2018. – 280 с.
 * [ ] Купер, А. Психбольница в руках пациентов / 2009. – 336 с.
 * [ ] Фрайд, Д. Remote. Офис не обязателен / 2014. – 288 с.
@@ -34,4 +34,3 @@ _Useful links_
 * [SQL Puzzle](https://blog.sqlauthority.com/category/sql-puzzle/)
 * [SqlZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 * [EQ: how to raise it?](https://www.mindtools.com/axbwm3m/how-emotionally-intelligent-are-you) my result 63 points
-* [Management. YandexPractikum](https://practicum.yandex.ru/blog/managment/)
