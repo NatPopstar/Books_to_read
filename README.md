@@ -13,7 +13,8 @@ _Self-development_
 * [ ]  Питер Друкер, Задачи менеджмента в XXI веке / 2007. -134с.
 * [ ]  Боб Йохансен, Лидеры создают будущее / 2012. - 264c.
 * [ ]  Warren Bennis & Burt Nanus, Leaders / 1985. - 256c.
-* [ ]  [INFLUENCER: The New Science of Leading Change](https://cdn-3.pdfdrive.to/v1/files/470d861e-1c07-404d-a23f-971497b6c998/download?t=PPTOwaQodW5p6tKSuq2NrPthwQfaKa9g) / 2023. 
+* [ ]  [INFLUENCER: The New Science of Leading Change](https://cdn-3.pdfdrive.to/v1/files/470d861e-1c07-404d-a23f-971497b6c998/download?t=PPTOwaQodW5p6tKSuq2NrPthwQfaKa9g) / 2023.
+* [ ]  Colin Eden and Fran Ackerman, Making Strategy: the journey of strategic management /1998. - 510c.
   
 _QA_
 * [x] Куликов, С. Тестирование программного обеспечения. Базовый курс / 2015. – 300 с.
